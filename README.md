@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @CodeDreamer06
-- 👀 I’m interested in Python and Javascript
-- 📫 How to reach me - CodeDreamer06@gmail.com - Email / Google Chat
+- 👀 I’m interested in Python, C# and Javascript
+- 📫 How to reach me - CodeDreamer06@gmail.com or Abhinav06#4243 on discord 😀
