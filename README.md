@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @CodeDreamer06
+# Hi, I'm Abhinav 👋
+
+📍 **Hyderabad**
+
 - 👀 I’m interested in Python, C# and Javascript
-- 📫 How to reach me - CodeDreamer06@gmail.com or anotherboreddude (Screwy) on discord 😀
+- 📫 Reach me through CodeDreamer06@gmail.com or anotherboreddude (Screwy) on discord
