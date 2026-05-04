@@ -12,3 +12,4 @@
 - [Papyrus](https://github.com/CodeDreamer06/Papyrus) — Turn textbooks into tests at scroll speed 📜
 - [AnnasArchiveMCP](https://github.com/CodeDreamer06/AnnasArchiveMCP) — Rust MCP server for book search and safe downloads 📦
 - [Drift](https://github.com/CodeDreamer06/Drift) — Fast, refined AI image studio 🌈
+- [LinkVault](https://github.com/CodeDreamer06/LinkVault) — Offline vault for the chronically curious. AI if you want it. 🗃️✨
