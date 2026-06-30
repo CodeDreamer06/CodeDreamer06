@@ -15,3 +15,4 @@
 - [LinkVault](https://github.com/CodeDreamer06/LinkVault) — Offline vault for the chronically curious. AI if you want it. 🗃️✨
 - [Whatschedule](https://github.com/CodeDreamer06/Whatschedule) — Fast, resilient Rust CLI for scheduling WhatsApp messages, groups, and media 📦
 - [Runway](https://github.com/CodeDreamer06/Runway) — A pre-flight prototype for an autonomous, Siri-like voice agent. ✈️
+- [PiTiles](https://github.com/CodeDreamer06/PiTiles) — Piano tiles for π, with MIDI support 🥧
