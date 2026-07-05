@@ -3,7 +3,7 @@
 📍 **Hyderabad, India**
 
 - 👀 I’m interested in Python, C# and Javascript
-- 📫 Reach me through CodeDreamer06@gmail.com or anotherboreddude (Screwy) on discord
+- 📫 Reach me through CodeDreamer06@gmail.com or midnight._rider on discord
 
 ## Current Projects
 - [Crumb](https://github.com/Abhinav-Prabhakar/Crumb) — Build recipes that are a chef's kiss 🧑‍🍳 
