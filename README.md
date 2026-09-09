@@ -20,3 +20,5 @@
 - [Meridian](https://github.com/Abhinav-Prabhakar/Meridian) — Every teammate, every timeline, one beautiful calendar ✨
 - [10k](https://github.com/Abhinav-Prabhakar/10k) — Attain mastery in a subject through 10k hours of practice 💪
 - [CampusGenie](https://github.com/Abhinav-Prabhakar/CampusGenie) — Ask anything about your college campus 🧞
+- [Warden](https://github.com/Abhinav-Prabhakar/Warden) — The ward, at a glance. 🏥
+- [CrimeLens](https://github.com/Abhinav-Prabhakar/CrimeLens) — See the network behind the evidence. 🕸️
